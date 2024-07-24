@@ -1,4 +1,3 @@
 # Padge
 
-
-https://github.com/DedShoot/Padge.git
+https://dedshoot.github.io/Padge/
